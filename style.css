@@ -1,0 +1,19 @@
+table{
+    border: 3px solid yellow;
+
+} 
+
+td{
+    border: 3px solid yellow;
+
+}
+
+body{
+    background-color: black;
+    color: yellow;
+}
+
+th{
+    border: 3px solid yellow;
+   
+} 
